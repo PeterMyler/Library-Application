@@ -1,6 +1,6 @@
 # Library Application
 
-This is my final project for my 2nd year Software Development module. It is an example of an OOP application in C++.
+This is my final project for the 2nd-year Software Development module, showcasing an implementation of Object-Oriented Programming (OOP) principles in C++. It demonstrates key concepts such as inheritance, polymorphism, encapsulation, and data abstraction.
 
 ## Project Requirements
   This application is for libraries and librarians to use to keep track of the items they have. It enables a user to create a library, add media items to it (books/magazines) and store the details for the Library in an external file when the application ends. The application can read in data from a text file that the user can also edit. Each library may contain a certain number of items up to a maximum number and items in the library may be sorted, searched, removed, changed, and displayed.
