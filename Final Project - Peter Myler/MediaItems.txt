@@ -1,0 +1,20 @@
+Type: Book
+Name: Golden Son
+Amount: 1
+Genre: Sci-Fi
+Author: Pierce Brown
+Country: USA
+
+Type: Book
+Name: Red Rising
+Amount: 1
+Genre: Sci-Fi
+Author: Pierce Brown
+Country: USA
+
+Type: Magazine
+Name: Best Houses
+Amount: 1
+Company: The Magazine co.
+Edition: 12
+
