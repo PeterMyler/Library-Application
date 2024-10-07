@@ -1,3 +1,5 @@
+An OOP-based C++ app for managing library items with sorting, searching, and file storage.
+
 # Library Application
 
 This is my final project for the 2nd-year Software Development module, showcasing an implementation of Object-Oriented Programming (OOP) principles in C++. It demonstrates key concepts such as inheritance, polymorphism, encapsulation, and data abstraction.
