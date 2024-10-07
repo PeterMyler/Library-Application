@@ -23,7 +23,8 @@ System processing: System checks if the Library has capacity to add the item. If
 Output: If the Library is at its max capacity the system displays an appropriate error message. If the item is already in the library, it will update the increase the current amount of that item by the amount of the new item (by default this value is 1). If the item does not exist then the system will add it to the library.
 
 ## Design
-(picture)
+![Diagram](https://github.com/PeterMyler/Library-Application/blob/main/Final%20Project%20UML.png?raw=true)
+
  
 ## Evaluation
 ### White box test cases to test the addItem member function outlined below
